@@ -14,6 +14,10 @@ const nextConfig = {
       },
       {
         protocol: 'https',
+        hostname: '*.gitpod.io',
+      },
+      {
+        protocol: 'https',
         hostname: 'images.pexels.com',
       }
     ],
